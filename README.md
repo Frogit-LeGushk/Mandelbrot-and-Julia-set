@@ -1,11 +1,13 @@
 # Mandelbrot-and-Julia-set
 ### Screencast Mandelbrot Set
 
-https://github.com/Acool4ik/Mandelbrot-and-Julia-set/blob/master/images/Mandelbrot.mp4
+
+https://github.com/Acool4ik/Mandelbrot-and-Julia-set/blob/master/.github/images/Mandelbrot.mp4
 
 ### Screencast Julia Set
 
-https://github.com/Acool4ik/Mandelbrot-and-Julia-set/blob/master/images/Julia.mp4
+
+https://github.com/Acool4ik/Mandelbrot-and-Julia-set/blob/master/.github/images/Julia.mp4
 
 ### Then to run projects:
 - `download` [GLFW]
